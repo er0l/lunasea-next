@@ -1,0 +1,30 @@
+﻿
+02-28 22:01:33.952  7121  7121 I flutter : DEBUG: Overseerr raw response: {pageInfo: {pages: 2, pageSize: 20, results: 
+32, page: 1}, results: [{id: 38, status: 2, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:00.000Z, t
+ype: tv, is4k: false, serverId: 0, profileId: 4, rootFolder: /mnt/storage/media/New TV Shows, languageProfileId: 1, tag
+s: [], isAutoRequest: false, media: {downloadStatus: [], downloadStatus4k: [], id: 238, mediaType: tv, tmdbId: 224941, 
+tvdbId: 433989, imdbId: null, status: 3, status4k: 1, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:
+01.000Z, lastSeasonChange: 2026-02-27T05:20:00.000Z, mediaAddedAt: null, serviceId: 0, serviceId4k: null, externalServi
+ceId: 319, externalServiceId4k: null, externalServiceSlug: the-boroughs, externalServiceSlug4k: null, ratingKey: null, 
+ratingKey4k: null, serviceUrl: http://192.168.0.4:8989/s/series/the-boroughs}, seasons: [{id: 9, seasonNumber: 1, statu
+s: 2, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:00.000Z}], modifiedBy: {permissions: 2, id:
+02-28 22:01:41.628  7121  7121 I flutter : DEBUG: Overseerr raw response: {pageInfo: {pages: 2, pageSize: 20, results: 
+32, page: 1}, results: [{id: 38, status: 2, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:00.000Z, t
+ype: tv, is4k: false, serverId: 0, profileId: 4, rootFolder: /mnt/storage/media/New TV Shows, languageProfileId: 1, tag
+s: [], isAutoRequest: false, media: {downloadStatus: [], downloadStatus4k: [], id: 238, mediaType: tv, tmdbId: 224941, 
+tvdbId: 433989, imdbId: null, status: 3, status4k: 1, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:
+01.000Z, lastSeasonChange: 2026-02-27T05:20:00.000Z, mediaAddedAt: null, serviceId: 0, serviceId4k: null, externalServi
+ceId: 319, externalServiceId4k: null, externalServiceSlug: the-boroughs, externalServiceSlug4k: null, ratingKey: null, 
+ratingKey4k: null, serviceUrl: http://192.168.0.4:8989/s/series/the-boroughs}, seasons: [{id: 9, seasonNumber: 1, statu
+s: 2, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:00.000Z}], modifiedBy: {permissions: 2, id:
+02-28 22:01:47.298  7121  7121 I flutter : DEBUG: Overseerr raw response: {pageInfo: {pages: 2, pageSize: 20, results: 
+32, page: 1}, results: [{id: 38, status: 2, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:00.000Z, t
+ype: tv, is4k: false, serverId: 0, profileId: 4, rootFolder: /mnt/storage/media/New TV Shows, languageProfileId: 1, tag
+s: [], isAutoRequest: false, media: {downloadStatus: [], downloadStatus4k: [], id: 238, mediaType: tv, tmdbId: 224941, 
+tvdbId: 433989, imdbId: null, status: 3, status4k: 1, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:
+01.000Z, lastSeasonChange: 2026-02-27T05:20:00.000Z, mediaAddedAt: null, serviceId: 0, serviceId4k: null, externalServi
+ceId: 319, externalServiceId4k: null, externalServiceSlug: the-boroughs, externalServiceSlug4k: null, ratingKey: null, 
+ratingKey4k: null, serviceUrl: http://192.168.0.4:8989/s/series/the-boroughs}, seasons: [{id: 9, seasonNumber: 1, statu
+s: 2, createdAt: 2026-02-27T05:20:00.000Z, updatedAt: 2026-02-27T05:20:00.000Z}], modifiedBy: {permissions: 2, id:
+
+
