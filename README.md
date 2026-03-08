@@ -6,7 +6,7 @@
 
 **What's new in LunaSea Next:**
 - Added the **rTorrent** module for full torrent client management.
-- Upgraded Gradle version to 8.9.
+- Upgraded Gradle version to 8.14.4.
 - Upgraded Android Gradle Plugin (AGP) to version 8.7.0.
 - Upgraded Kotlin to version 2.1.10.
 
@@ -27,5 +27,5 @@ LunaSea even comes with support for webhook-based push notifications, multiple i
 
 > Please note that LunaSea is purely a remote control application, it does not offer any functionality without software installed on a server/computer.
 
-- [Email](mailto:hello@lunasea.app)
+- [Email](mailto:lunasea@erol.name)
 - [Website](https://www.lunasea.app)

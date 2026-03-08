@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=LunaSea
+Name=LunaSea Next
 Comment=Self-hosted software controller built using Flutter
 Exec=lunasea
 Icon=${SNAP}/meta/gui/lunasea.png
