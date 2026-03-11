@@ -40,7 +40,6 @@ class LunaDatabase {
 
   Future<void> bootstrap() async {
     const defaultProfile = LunaProfile.DEFAULT_PROFILE;
-    await clear();
 
     LunaBox.profiles.update(defaultProfile, LunaProfile());
     LunaSeaDatabase.ENABLED_PROFILE.update(defaultProfile);
